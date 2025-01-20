@@ -6,8 +6,6 @@ Welcome to the **ION Workout App** — your ultimate fitness companion! 💪 Thi
 
 ## 📂 Repositories Overview
 
-The ION Workout App is split into several repositories, each playing a vital role in the app's ecosystem. Here's the breakdown:
-
 ### 🖥️ **[app](https://github.com/ION-WorkoutApp/app)**
 - Front-end magic built with **Kotlin**.  
 - Where all the user interaction happens! 🎨✨  
