@@ -18,7 +18,7 @@ The ION Workout App is split into several repositories, each playing a vital rol
   You can run the back-end server on your own! Perfect for those who want complete control.  
   Check the [setup guide](https://github.com/ION-WorkoutApp/server?tab=readme-ov-file#setup) to learn how to host it locally or on a cloud provider. ☁️⚙️  
 - 🚀 **Hosted Back-End (COMING SOON!)**:  
-  Prefer a ready-to-use option? We've got you covered! Use the hosted back-end at **[workout.ion606.com](https://workout.ion606.com)** for just **$2/month**. Affordable and hassle-free! 💸🔗  
+  Prefer a ready-to-use option? We've got you covered! Use the hosted back-end at (more info **[workout.ion606.com](https://workout.ion606.com)**!) for just **$2/month**. Affordable and hassle-free! 💸🔗  
 
 ### 📊 **[data](https://github.com/ION-WorkoutApp/data)**
 - Your go-to for datasets like `megaGymDataset.csv`.  
@@ -39,7 +39,7 @@ Jumpstart your fitness app experience! 💡 Follow the setup instructions in the
 3. **Data**: [Learn about the datasets](https://github.com/ION-WorkoutApp/data) 📊.  
 4. **Images**: [Access the exercise images](https://github.com/ION-WorkoutApp/db-images) 🖼️.  
 
-**Note**: If you're using the hosted back-end, ensure you subscribe to the service at **[workout.ion606.com](https://workout.ion606.com)**.
+**Note**: If you're using the hosted back-end, ensure you subscribe to the service. More info available at **[workout.ion606.com](https://workout.ion606.com)**!
 
 ---
 
