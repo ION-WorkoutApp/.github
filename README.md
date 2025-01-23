@@ -33,7 +33,7 @@ Welcome to the **ION Workout App** — your ultimate fitness companion! 💪 Thi
 Jumpstart your fitness app experience! 💡 Follow the setup instructions in the respective repositories:
 
 1. **Front-End**: [Get started here](https://github.com/ION-WorkoutApp/app) 🖥️.  
-2. **Back-End**: [Set up the server](https://github.com/ION-WorkoutApp/server) 🌐.  
+2. **Back-End**: [Set up the server](https://github.com/ION-WorkoutApp/installers?tab=readme-ov-file#ion-workout-app-installers) 🌐.  
 3. **Data**: [Learn about the datasets](https://github.com/ION-WorkoutApp/data) 📊.  
 4. **Images**: [Access the exercise images](https://github.com/ION-WorkoutApp/db-images) 🖼️.  
 
