@@ -2,6 +2,11 @@
 
 Welcome to the **ION Workout App** — your ultimate fitness companion! 💪 This app is designed to help you track, manage, and crush your workouts like never before. Dive into the repository to explore the different components that make this app awesome! 🎉
 
+
+> [!TIP]
+> Want to start your fitness journey? Download the app [here](https://github.com/ION-WorkoutApp/app-installer/releases/latest)!
+
+### Prerequisites
 ---
 
 ## 📂 Repositories Overview
